@@ -34,25 +34,6 @@
   <strong>Core Skills:</strong> Problem Solving, Analytical Thinking, Team Collaboration
 </p>
 
----
-
-### 📂 Featured Projects
-
-Here are some of the projects I've built:
-
-- **[Automated ETL & Insight Generation Platform (SmartCSV) - 2026]**  
-  A platform to simplify ETL processes and generate insights from CSV data.
-
-- **[Smart Guard Attendance & Behaviour Analytics System - 2025]**  
-  A system leveraging analytics for attendance tracking and behavioral monitoring.
-
-- **[Online File Sharing System (FileShare) - 2024]**  
-  A secure and responsive file-sharing application with user authentication.
-
-*(You can click on the project names above and add links to their respective repositories!)*
-
----
-
 ### 💼 Internship Experience
 
 - **Web Development Intern** @ EazyByts Web Solutions (Dec 2025)  
@@ -100,6 +81,3 @@ Here are some of the projects I've built:
 
 ---
 
-<p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
-</p>
