@@ -1,187 +1,238 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--              KUNAL KHAIRE — GitHub Profile README           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║            KUNAL KHAIRE — GitHub Profile README              ║ -->
+<!-- ║          Designed for maximum visual impact & uniqueness     ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-<!-- Capsule Render Header — very reliable -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kunal%20Khaire&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20B.Tech%20IT%20%7C%20India&descAlignY=58&descSize=18&descColor=d0bfff" />
-
-<!-- Typing SVG — demolab is GitHub-trusted -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=550&lines=Building+scalable+full-stack+apps+%F0%9F%9A%80;Turning+ideas+into+real+products+%F0%9F%92%A1;Exploring+AI+%26+Backend+Systems+%F0%9F%A4%96;Open+to+exciting+opportunities+%F0%9F%8E%AF" alt="Typing SVG" />
-
-<br/>
-
-<!-- Badges -->
-<img src="https://komarev.com/ghpvc/?username=kunalkhaire302&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="Profile views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/kunalkhaire302?label=Followers&style=for-the-badge&color=7c3aed&labelColor=1a1a2e" alt="followers"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Open%20To%20Work-Yes-22c55e?style=for-the-badge&labelColor=1a1a2e" alt="Open to work"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,9,6&height=200&section=header&text=KUNAL%20KHAIRE&fontSize=70&fontColor=00ffcc&animation=fadeIn&fontAlignY=40&stroke=00ffcc&strokeWidth=1&desc=Full-Stack%20Developer%20%7C%20AI%20Explorer%20%7C%20B.Tech%20IT&descAlignY=62&descSize=16&descColor=aaffee"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="coding gif"/>
-
-```yaml
-👤 Name      : Kunal Khaire
-💼 Role      : Full-Stack Developer
-🎓 Education : B.Tech IT — MPSTME, NMIMS Shirpur
-               (2024–2027)
-📍 Location  : India 🇮🇳
-🔍 Focus     : Full-Stack | Backend | AI
-📬 Email     : kunalkhaire302@gmail.com
-🟢 Status    : Actively seeking opportunities
 ```
+╔═══════════════════════════════════════════════════════════════╗
+║  > SYSTEM BOOT...                                             ║
+║  > LOADING: kunalkhaire302.exe                                ║
+║  > STATUS: Full-Stack Dev | AI Explorer | Open to Work ✔      ║
+║  > MISSION: Build. Ship. Iterate. Scale.                      ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=700&color=00FFCC&center=true&vCenter=true&width=600&lines=const+dev+%3D+new+FullStackDeveloper(%22Kunal%22)%3B;dev.build(%22React+%2B+Node.js+%2B+MongoDB%22)%3B;dev.explore(%22AI+%26+Backend+Systems%22)%3B;dev.status+%3D+%22Open+to+Opportunities%22+%F0%9F%9A%80;" alt="Typing SVG"/>
 
 <br/>
 
-- 🔭 Building full-stack apps with **React + Node.js + MongoDB**
-- 🤖 Exploring **AI integrations** in real-world products
-- 🧠 Strong in **Problem Solving & System Design**
-- ⚡ Fun fact: I debug better with lo-fi music 🎧
+![Profile Views](https://komarev.com/ghpvc/?username=kunalkhaire302&label=👁️+PROFILE+VIEWS&color=00ffcc&style=for-the-badge&labelColor=0a0a0a)
+&nbsp;
+![Followers](https://img.shields.io/github/followers/kunalkhaire302?label=🤝+FOLLOWERS&style=for-the-badge&color=00ffcc&labelColor=0a0a0a)
+&nbsp;
+![Open To Work](https://img.shields.io/badge/⚡_STATUS-OPEN_TO_WORK-00ffcc?style=for-the-badge&labelColor=0a0a0a)
+
+</div>
+
+<br/>
+
+---
+
+## ⚡ `whoami`
+
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="tech animation"/>
+
+<br/>
+
+<pre>
+{
+  "name"      : "Kunal Khaire",
+  "role"      : "Full-Stack Developer",
+  "education" : "B.Tech IT — MPSTME, NMIMS Shirpur (2024–2027)",
+  "location"  : "India 🇮🇳",
+  "focus"     : ["Full-Stack", "Backend Systems", "AI Integration"],
+  "contact"   : "kunalkhaire302 [at] gmail.com",
+  "status"    : "🟢 Actively seeking opportunities",
+  "funFact"   : "I debug better with lo-fi music 🎧"
+}
+</pre>
+
+<br/>
+
+> 🔭 &nbsp;Building **React + Node.js + MongoDB** full-stack apps  
+> 🤖 &nbsp;Integrating **AI/ML** into real-world products  
+> 🧠 &nbsp;Strong in **Problem Solving & System Design**  
+> 📡 &nbsp;Always shipping — from idea → MVP → production
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧬 Tech DNA
 
 <div align="center">
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,java,javascript,ts&theme=dark" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,figma&theme=dark" />
-
-**Backend & Databases**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark" />
-
-</div>
-
----
-
-## 💼 Work Experience
-
-<table width="100%">
+<table>
 <tr>
-<td width="120" align="center" valign="top">
-  <br/>
-  <img src="https://img.shields.io/badge/Dec-2025-7c3aed?style=flat-square"/>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Internship-Web_Dev-a78bfa?style=flat-square"/>
+<td align="center" width="200">
+
+**💬 Languages**
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,ts&theme=dark&perline=4"/>
+
 </td>
-<td valign="top">
-  <br/>
-  <strong>🌐 Web Development Intern — EazyByts Web Solutions</strong>
-  <br/><br/>
-  Developed responsive UI components, optimized frontend performance,
-  and collaborated on real-world product features.
-  <br/><br/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<td align="center" width="250">
+
+**🎨 Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,figma&theme=dark&perline=5"/>
+
 </td>
-</tr>
-<tr>
-<td width="120" align="center" valign="top">
-  <br/>
-  <img src="https://img.shields.io/badge/Jul–Aug-2023-7c3aed?style=flat-square"/>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Internship-Technical-a78bfa?style=flat-square"/>
+<td align="center" width="250">
+
+**⚙️ Backend & DB**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark&perline=4"/>
+
 </td>
-<td valign="top">
-  <br/>
-  <strong>⚙️ Technical Intern — NPIT Solutions, Nashik</strong>
-  <br/><br/>
-  Contributed to full-stack development, backend integration, REST API
-  testing, and QA across multiple client projects.
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<td align="center" width="200">
+
+**🛠 Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark&perline=5"/>
+
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
 
-## 📜 Certifications
+## 🗂️ Experience — `git log --oneline`
+
+```diff
++ [Dec 2025] Web Development Intern — EazyByts Web Solutions
+```
+<details>
+<summary><b>📂 View Details</b></summary>
+<br/>
+
+- 🔹 Developed **responsive UI components** with React
+- 🔹 **Optimized frontend performance** across key user flows
+- 🔹 Collaborated on real-world product features in an agile team
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+</details>
+
+<br/>
+
+```diff
++ [Jul–Aug 2023] Technical Intern — NPIT Solutions, Nashik
+```
+<details>
+<summary><b>📂 View Details</b></summary>
+<br/>
+
+- 🔹 Contributed to **full-stack development** across client projects
+- 🔹 Handled **backend integration** and REST API testing
+- 🔹 Performed **QA & debugging** across multiple environments
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</details>
+
+---
+
+## 🏅 Certifications — `verified credentials`
 
 <div align="center">
 
-| 🏅 Certification | 🏢 Issuer | 📅 |
-|:---|:---|:---:|
-| 🐍 Python Fundamentals | — | 2024 |
-| 📊 GenAI Powered Data Analytics | Tata — Forage | 2024 |
-| 💼 Software Engineering Simulation | JPMorganChase — Forage | 2024 |
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  🐍  Python Fundamentals                            ── 2024         │
+│  📊  GenAI Powered Data Analytics   [Tata · Forage] ── 2024         │
+│  💼  Software Engineering Sim   [JPMorganChase · Forage] ── 2024    │
+└─────────────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics — `./stats --live`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kunalkhaire302&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&border_radius=10&count_private=true" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalkhaire302&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_radius=10" alt="Top Languages"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=kunalkhaire302&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00ffcc&icon_color=00ffcc&text_color=ccffee&border_radius=12&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+&nbsp;
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalkhaire302&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00ffcc&text_color=ccffee&border_radius=12&langs_count=8" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=kunalkhaire302&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&border_radius=10" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=kunalkhaire302&theme=dark&hide_border=true&background=0a0a0a&ring=00ffcc&fire=00e6b8&currStreakLabel=00ffcc&sideLabels=00ffcc&sideNums=ccffee&dates=aaaaaa&border_radius=12" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kunalkhaire302&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f472b6&area=true&hide_border=true&border_radius=10&area_color=1a0533" alt="Activity Graph"/>
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=kunalkhaire302&bg_color=0a0a0a&color=00ffcc&line=00e6b8&point=ffffff&area=true&hide_border=true&border_radius=12&area_color=003322" alt="Activity Graph"/>
+
+<br/><br/>
+
+<!-- Snake contribution animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kunalkhaire302/kunalkhaire302/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kunalkhaire302/kunalkhaire302/output/github-snake.svg"/>
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/kunalkhaire302/kunalkhaire302/output/github-snake.svg"/>
+</picture>
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## 🌐 Connect — `ping @kunalkhaire302`
 
 <div align="center">
+
+<br/>
 
 <a href="https://www.linkedin.com/in/kunal-khaire/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="mailto:kunalkhaire302@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://github.com/kunalkhaire302" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://github.com/kunalkhaire302/kunalkhaire302/blob/main/Resume.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/Resume-7c3aed?style=for-the-badge&logo=googledrive&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Resume-%2300ffcc.svg?style=for-the-badge&logo=googledrive&logoColor=0a0a0a"/>
 </a>
 
 <br/><br/>
 
-<i>💬 Open to collaborations, internships, and exciting opportunities!</i>
+```
+╔══════════════════════════════════════════════════════╗
+║   💡 Open to: internships · collaborations · roles  ║
+║   📬 DM me — let's build something remarkable!      ║
+╚══════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer"/>
-
 <div align="center">
-  <sub>⭐ If you find my work helpful, consider starring my repos — it really motivates me!</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,9,6&height=120&section=footer&fontColor=00ffcc"/>
+
+<sub>⭐ Star a repo if it helped you — it's the best fuel for a dev 🚀</sub>
+
 </div>
