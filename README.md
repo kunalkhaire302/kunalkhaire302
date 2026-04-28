@@ -200,6 +200,10 @@
 
 <br/>
 
+<a href="https://www.kunaluniverse.tech/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-kunaluniverse.tech-00ffcc?style=for-the-badge&labelColor=0a0a0a"/>
+</a>
+&nbsp;
 <a href="https://www.linkedin.com/in/kunal-khaire/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
