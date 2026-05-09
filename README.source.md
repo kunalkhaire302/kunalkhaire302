@@ -472,7 +472,7 @@
 
 ```aura width=150 height=44 link="https://yashchaudhari.me/" inline align=center
 <SocialMediaButton
-  icon="https://raw.githubusercontent.com/collectioneur/collectioneur/main/icons/x-icon.svg"
+  icon="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 96 96'%3E%3Ccircle cx='48' cy='48' r='48' fill='%23000000'/%3E%3Ctext x='48' y='53' text-anchor='middle' dominant-baseline='middle' font-family='Arial Black%2C Arial%2C sans-serif' font-weight='900' font-size='34' fill='%23ffffff'%3EYC%3C/text%3E%3C/svg%3E"
   text="Portfolio"
   backgroundColor="#000000"
   width={150}
