@@ -472,7 +472,7 @@
 
 ```aura width=150 height=44 link="https://yashchaudhari.me/" inline align=center
 <SocialMediaButton
-  icon="https://raw.githubusercontent.com/collectioneur/collectioneur/main/icons/YC.png"
+  icon="https://raw.githubusercontent.com/YashChaudhari999/YashChaudhari999/main/icons/YC.png"
   text="Portfolio"
   backgroundColor="#000000"
   width={150}
