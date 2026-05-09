@@ -396,11 +396,11 @@
            <stop offset="70%" stopColor="rgba(130,20,220,0)"    />
          </radialGradient>
        </defs>
-       <ellipse id="fp-glow-1" cx="120"  cy="200" rx="250" ry="170" fill="url(#fpg1)" />
-       <ellipse id="fp-glow-2" cx="320"  cy="210" rx="210" ry="150" fill="url(#fpg2)" />
-       <ellipse id="fp-glow-3" cx="520"  cy="200" rx="180" ry="140" fill="url(#fpg3)" />
-       <ellipse id="fp-glow-4" cx="700"  cy="210" rx="160" ry="130" fill="url(#fpg4)" />
-       <ellipse id="fp-glow-5" cx="820"  cy="200" rx="140" ry="120" fill="url(#fpg5)" />
+       <ellipse id="fp-glow-1" cx="15%" cy="50%" rx="35%" ry="85%" fill="url(#fpg1)" />
+       <ellipse id="fp-glow-2" cx="35%" cy="55%" rx="30%" ry="75%" fill="url(#fpg2)" />
+       <ellipse id="fp-glow-3" cx="60%" cy="45%" rx="25%" ry="70%" fill="url(#fpg3)" />
+       <ellipse id="fp-glow-4" cx="80%" cy="55%" rx="25%" ry="75%" fill="url(#fpg4)" />
+       <ellipse id="fp-glow-5" cx="95%" cy="50%" rx="20%" ry="65%" fill="url(#fpg5)" />
      </svg>
 
      <div style={{ display:'flex', fontSize:10, fontWeight:700, color:'rgba(155,140,210,0.5)', letterSpacing:'3px' }}>
