@@ -453,7 +453,11 @@
 />
 ```
 
-```aura width=130 height=44 link="mailto:yashchaudhari500@gmail.com" inline align=center
+```aura width=16 height=44 inline
+<div style={{ width:'100%', height:'100%' }} />
+```
+
+```aura width=130 height=44 link="mailto:yashchaudhari500@gmail.com" inline
 <SocialMediaButton
   icon="https://raw.githubusercontent.com/collectioneur/collectioneur/main/icons/gmail-icon.svg"
   text="Email"
@@ -470,9 +474,13 @@
 />
 ```
 
-```aura width=150 height=44 link="https://yashchaudhari.me/" inline align=center
+```aura width=16 height=44 inline
+<div style={{ width:'100%', height:'100%' }} />
+```
+
+```aura width=150 height=44 link="https://yashchaudhari.me/" inline
 <SocialMediaButton
-  icon="https://raw.githubusercontent.com/YashChaudhari999/main/icons/YC.png"
+  icon="https://raw.githubusercontent.com/YashChaudhari999/YashChaudhari999/main/icons/YC.png"
   text="Portfolio"
   backgroundColor="#000000"
   width={150}
