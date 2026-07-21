@@ -26,7 +26,7 @@ import sys
 import math
 
 # ── Config ────────────────────────────────────────────────────────
-GITHUB_USER  = "YashChaudhari999"
+GITHUB_USER  = "kunalkhaire302"
 SOURCE_FILE  = "README.source.md"
 SEARCH_TEXT  = "Featured-repo"       # text to scan for in repo READMEs
 MAX_FEATURED = 6                     # max cards shown (layout fits up to 6)

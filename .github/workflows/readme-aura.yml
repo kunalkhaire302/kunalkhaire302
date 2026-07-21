@@ -36,7 +36,7 @@ jobs:
           output: README.md
           assets_dir: .github/assets
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          github_user: YashChaudhari999
+          github_user: kunalkhaire302
           auto_commit: 'false'    # we commit manually below
 
       # ── Step 3: Restore README.source.md & commit only outputs ──
