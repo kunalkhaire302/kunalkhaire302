@@ -327,7 +327,7 @@
 
 ```aura width=860 height=300
 (function() {
-  /*FEATURED_START*/var projects = [{"name":"SmartCSV","desc":"Automated ETL & Insight Generation Platform with 9-step pipeline and AI summaries.","lang":"Python","langColor":"#3572A5","link":"https://github.com/kunalkhaire302/SmartCSV"},{"name":"EvolveX System","desc":"Gamified Productivity Platform turning habits into an RPG with quests and XP.","lang":"Python","langColor":"#3572A5","link":"https://github.com/kunalkhaire302/evolvexsystem"},{"name":"Portfolio Universe","desc":"Interactive 3D Developer Portfolio rendered as an explorable 3D solar system.","lang":"React","langColor":"#61DAFB","link":"https://github.com/kunalkhaire302/portfolio-universe"}];/*FEATURED_END*/
+  /*FEATURED_START*/var projects = [{"name": "CapstoneX", "desc": "Powered Academic Project Governance and Intelligence Platform.", "lang": "Python", "langColor": "#3572A5", "link": "https://github.com/kunalkhaire302/CapstoneX-Powered-Academic-Project-Governance-and-Intelligence-Platform"}, {"name": "Carbon Footprint AI", "desc": "AI-powered tool to analyze and track carbon footprints efficiently.", "lang": "Python", "langColor": "#3572A5", "link": "https://github.com/kunalkhaire302/carbon-footprint-ai"}, {"name": "FileShared", "desc": "A secure and fast file sharing application.", "lang": "JavaScript", "langColor": "#f1e05a", "link": "https://github.com/kunalkhaire302/FileShared"}];/*FEATURED_END*/
 
  return (
    <div style={{
